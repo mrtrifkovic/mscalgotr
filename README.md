@@ -1,0 +1,2 @@
+# mscalgotr
+algo fx tading
